@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mkdirp": {
+      "version": "0.5.1",
+      "dependencies": {
+        "minimist": {
+          "version": "0.0.8"
+        }
+      }
+    },
+    "touch": {
+      "version": "1.0.0",
+      "dependencies": {
+        "nopt": {
+          "version": "1.0.10",
+          "dependencies": {
+            "abbrev": {
+              "version": "1.0.7"
+            }
+          }
+        }
+      }
+    }
+  }
+}
