@@ -10,7 +10,7 @@ That's why I created this small package for helping me. It's your own Meteor boi
 # Usage
 Usage is very simple, just create a file called **installer.json** in the root directory of your application. This file should contain an object with the following keys: *packages*, *folders* and files.
 
-**packages** is an array of packages your app uses. These will be included with `api.imply()`.
+**packages** is an array of packages your app uses. These will be added to `.meteor/packages`. Please not that removing a package here does not remove it from your project.
 
 **folders** is an array of folders to be created, they can be nested like `server/publications`
 
