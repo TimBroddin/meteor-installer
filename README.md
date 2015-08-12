@@ -48,3 +48,7 @@ Usage is very simple, just create a file called **installer.json** in the root d
 
 	  ]
 	}
+
+# History
+- **v0.0.5**: fixed a typo (thanks Pahan Sarathchandra).
+- **v0.0.4**: found out you can't dynamically call `api.use` for packages.
