@@ -5,7 +5,7 @@ Npm.depends({
 
 Package.describe({
   name: 'timbroddin:installer',
-  version: '0.0.5',
+  version: '0.0.6',
   summary: 'Makes installing boilerplate stuff easy peazy.',
   git: 'https://github.com/TimBroddin/meteor-installer.git',
   documentation: 'README.md',
